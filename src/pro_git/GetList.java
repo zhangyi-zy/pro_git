@@ -3,6 +3,6 @@ package pro_git;
 public class GetList {
 
 	public static void main(String[] args) {
-		System.out.println("-·ÖÖ§-");
+		System.out.println("-åˆ†æ”¯-");
 	}
 }
