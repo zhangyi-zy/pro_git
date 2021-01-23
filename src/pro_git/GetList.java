@@ -6,6 +6,5 @@ public class GetList {
 		System.out.println("-fz-");
 		System.out.println("-fz-");
          System.out.println(1212);
-
 	}
 }
