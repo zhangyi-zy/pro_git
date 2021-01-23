@@ -6,5 +6,9 @@ public class DoList {
 		System.out.println("-fz-");
 		System.out.println("-fz-");
 		System.out.println(1212);
+		System.out.println("-分支-");
+		System.out.println("-分支-");
+		System.out.println("-分支-");
+
 	}
 }
